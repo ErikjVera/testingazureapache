@@ -1,2 +1,1 @@
-# testingazureapache
-Probando los servicios de azure con apache
+http://erikjvera.westeurope.cloudapp.azure.com/
